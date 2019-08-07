@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
-defaults:
-  -
-    scope:
-      path: "/.well-known/"
+include: 
+  - ".well-known/secirity.txt"
+  - ".well-known/keybase.txt"
