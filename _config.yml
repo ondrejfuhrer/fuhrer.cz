@@ -1,4 +1,2 @@
 theme: jekyll-theme-minimal
-include: 
-  - ".well-known/secirity.txt"
-  - ".well-known/keybase.txt"
+include: [".well-known"]
