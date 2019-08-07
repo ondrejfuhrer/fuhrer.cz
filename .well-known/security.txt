@@ -1,0 +1,3 @@
+Contact: security@fuhrer.cz
+Preferred-Languages: en, cz
+Canonical: fuhrer.cz
