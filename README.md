@@ -1,29 +1,13 @@
-## Ondřej Führer | Personal site
+## Welcome
+Welcome to my personal site. My name is Ondřej and I'm from Czech Republic.
+I'm a software engineer with more then 10 years experience (mostly in backed services).
 
-### Markdown
+### Public profiles
+You can find more about my professional career on [LinkedIn](www.linkedin.com/in/ondrejfuhrer)
+For some of my personal projects you can check my public [Github profile](https://github.com/ondrejfuhrer)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm also on [Keybase.io](https://keybase.io/ondrejfuhrer) so if you would like to chat securely 🔐, meet me there.
 
-```markdown
-Syntax highlighted code block
+Feel free to follow me on [Twitter](https://twitter.com/ondrejfuhrer) as well.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Have a great day!
