@@ -1,6 +1,7 @@
 ## Welcome
-Welcome to my personal site. My name is Ondřej and I'm from Czech Republic.
-I'm a software engineer with more then 10 years experience (mostly in backed services).
+Welcome to my personal site. My name is Ondřej, and I'm from Czech Republic. 
+I'm a software engineer with more than 10 years of experience (mostly in backed services), 
+currently living in Berlin and working for [GetYourGuide](https://inside.getyourguide.com).
 
 ### Public profiles
 You can find more about my professional career on [LinkedIn](www.linkedin.com/in/ondrejfuhrer).
