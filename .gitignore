@@ -1,1 +1,25 @@
 .idea
+# hidden files
+.*
+
+# python compiled files
+*.pyc
+
+# jekyll debug
+_site
+
+# Jeykll Gemfile.lock
+Gemfile.lock
+
+# yui-compressor
+*.jar
+
+# bundle cache
+vendor
+
+# Exclusions
+!.github
+!.gitignore
+!.well-known
+
+

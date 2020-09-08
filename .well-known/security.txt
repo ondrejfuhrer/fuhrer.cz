@@ -3,22 +3,22 @@ Hash: SHA256
 
 Contact: security@fuhrer.cz
 Preferred-Languages: en, cz
-Canonical: https://www.fuhrer.cz.cz/.well-known/security.txt
+Canonical: https://www.fuhrer.cz/.well-known/security.txt
 Encryption: https://www.fuhrer.cz/key.asc
 -----BEGIN PGP SIGNATURE-----
 
-iQJHBAEBCAAxFiEEI2bT5b+OWevsHdyK3q/ON0XQpkgFAl1YMvYTHHNlY3VyaXR5
-QGZ1aHJlci5jegAKCRDer843RdCmSOurD/9RRbJBxHhnR+R8RNZDJSqX/g44ge5k
-sw6hyE+CRuOPsoTPk+WcPySxwT1carggW8mgw46yTmNevt//oZ+7yb0OZQZCKoo4
-7ZqMF73IVSPICT6ar5mAq6Jg94OlYRvRNIOKr0yGqYpp+UFdqwVWFRfRXnygRQ1C
-NMk6Ewh/ceaafWCjCGjiI73oPLsK+vML/9KAgvfnTF7Hmx+W3UccfT+QROSxnckA
-5LmWrMw9J7JAX2PHR58N/bhfy/ASqbRwu8VnknsYShvyBfBJNiLFG0NRTDu7TZyc
-hHj/ZV3jNCJGQVZ3rTDWqxVfjVS/sI0k6ugwonpKwY/OxFNM3oSb8fUgewimUryR
-96xpuJ8ovHz3hns2IFQyW6YkI5MSdqn9jP82ji1k+BP2XMbqXiGwgNsbmzVsxMbp
-PSBHDUrp86GRJ9wLjTnREEhYHkktfoHXGIcnxjXuPdXBbM1F1ZFLYC1G4oZ22l8E
-z0h+C8FiFhfAIb+tgXhuQO75eKvBtbUmRJcx1F1s1als9AKPhU2nZXLwiqrJd6iv
-9tjOIISQA0g/Dl8ar1ltv3mfH9SJpE16Qgu1dtJJpGUfcaVIh/GRpED80Mt53F0S
-tBpS5q6Evbk5HbGYrx4mtBwAPBxfcf/9L//dlPBYNV0qsx7fIp2qS5PsNn19A31F
-A6+qyRtZhJmVDw==
-=4yxc
+iQJHBAEBCAAxFiEEI2bT5b+OWevsHdyK3q/ON0XQpkgFAl9X3RYTHHNlY3VyaXR5
+QGZ1aHJlci5jegAKCRDer843RdCmSNk2D/9+jkwq77D9HAGlH524Sx6aWir9IcF7
+y9pinAkVKTrezkODXvL5dToaOmziHQz7HX0DqbvspYdwwG3NeADNM5vzOxG6ZrCL
+Pi0sQqBO9O9pdQrSHqvpAZPOBFEQ60tF0x91Q475EJN4yh4tfpMmTXkyL+9699s6
+p/rowHQV6NvXfI98CnpQ3+WwVntQsjHqG/VSXb8lO2WqWv+q5orrjeG5m0lIIDtK
+kKwZy1Ftzjxuvim7Td6UizQSDMGnPzC1yU1Xd2DpbWC5k1/7aSP+8vnPSDg0Hb4Y
+H91hkNbzbPuUSE3279bN/heI2rhusx09XI+ghzqrChtaCDLScWfeLAl7OpD9aOnS
+AOIT3rxvWoMUdmfuYrVPlNzgwijDeqOQHewSPwmKGiUDRzv5FwLej9fr899xyV3B
+vY+dzysF0y26kDVKCZ6jaP6wJn2+T0iZMxsXVz5Z2rx4GuThB3njrKcaer3GhRo8
+YToaiKb2bHTH/ohuVBnGRgKoDYGms5e0MUnvci+keFiwOGxeZQvcwkba8ggECtHy
+VveggVqCrLsnfGqRpBHYh9SJGTjePEyAKZLgqi/27YPmMOpWn3P08DhshV0G2fYA
+w4+nr2zO49r0qazBUuCKQ/pg/DwuNYUl9UfMc9Z7vfUH5pNJ4OMuId8+5pFE3U4u
+syt9MtKDLDooXA==
+=rRvF
 -----END PGP SIGNATURE-----
