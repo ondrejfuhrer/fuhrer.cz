@@ -5,12 +5,11 @@
 # MIT licensed
 
 title: Ondřej Führer
-tagline: Personal page.
+tagline: My personal page / blog.
 
-description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+description: >-
+  Personal site for Ondřej Führer, software engineer
+  adding some blog posts in here to remember things.
 
 url: 'https://www.fuhrer.cz'
 author: Ondřej Führer
@@ -29,7 +28,7 @@ social:
     - https://www.linkedin.com/in/ondrejfuhrer
     - https://stackoverflow.com/users/4578835/ondrej-f%c3%bchrer
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+google_site_verification: "NCY7eDK6gpzW1YH1KWTd1MZQYftmJiCzcWlD3hqF3t8"
 
 #--------------------------
 
@@ -145,7 +144,6 @@ defaults:
           label: Home
           url: /
 
-
 sass:
   sass_dir: /assets/css
   style: compressed
@@ -162,7 +160,7 @@ compress_html:
     envs: []
 
 exclude:
-  - vendor        # Avoid Jekyll mistakenly read the vendor directory on Travis-CI's VM .
+  - vendor
   - Gemfile.lock
   - Gemfile
   - tools
@@ -170,7 +168,7 @@ exclude:
   - README.md
   - LICENSE
 
-sitemap_exclude:  # Sitemap will exclude the following items.
+sitemap_exclude:
   fuzzy:
     - /assets/
   accurate:
