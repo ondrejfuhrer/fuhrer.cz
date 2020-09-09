@@ -27,6 +27,7 @@ backup() {
   mv _site/* "$_backup_dir"
   mv _site/.well-known "$_backup_dir"
   mv .git "$_backup_dir"
+  echo "include: [\".well-known\"]" > "$_backup_dir/_config.yml"
 
   # When adding custom domain from Github website,
   # the CANME only exist on `gh-pages` branch
