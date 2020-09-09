@@ -27,18 +27,14 @@ backup() {
   mv _site/* "$_backup_dir"
   mv .git "$_backup_dir"
   # Include .well-known directory if exists
-  if [[ -f "_site/.well-known" ]]; then
-    mv _site/.well-known "$_backup_dir"
-    # Include .well-known directory in case we're deploying to Github Pages
-    if [[ -f CNAME ]]; then
-      echo "include: [\".well-known\"]" > "$_backup_dir/_config.yml"
-    fi
-  fi
+  mv _site/.well-known "$_backup_dir"
 
   # When adding custom domain from Github website,
-  # the CANME only exist on `gh-pages` branch
+  # the CNAME only exist on `gh-pages` branch
   if [[ -f CNAME ]]; then
     mv CNAME "$_backup_dir"
+    # Include also .well-know dir in gh-pages branch to include those files as well
+    echo "include: [\".well-known\"]" > "$_backup_dir/_config.yml"
   fi
 }
 
@@ -50,7 +46,7 @@ flush() {
   mv "$_backup_dir"/* .
 }
 
-deoply() {
+deploy() {
   git config --global user.name "GitHub Actions"
   git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
@@ -69,7 +65,7 @@ main() {
   init
   backup
   flush
-  deoply
+  deploy
 }
 
 main
