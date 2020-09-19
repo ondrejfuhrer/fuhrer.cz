@@ -9,7 +9,7 @@ pin: false
 
 Setting up HTTPS on your site is really easy, and you can get one for free.
 I’ve set it for this site using a great tutorial from [httpsiseasy.com](https://www.httpsiseasy.com).
-That is a great series of videos from a security researcher [Troy Hunt](/https://troyhunt.com/).
+That is a great series of videos from a security researcher [Troy Hunt](https://troyhunt.com/).
 It uses [Cloudflare](https://www.cloudflare.com) to easily add free [SSL certificate](https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/) to any site. 
 
 ## What is HTTPS
