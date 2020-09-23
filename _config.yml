@@ -171,6 +171,7 @@ exclude:
 sitemap_exclude:
   fuzzy:
     - /assets/
+    - /.well-known/
   accurate:
     - /norobots/
     - /tabs/
@@ -182,3 +183,5 @@ sitemap_exclude:
     - sitemap.xml
     - robots.txt
     - redirects.json
+    - sw.js
+    - app.js
