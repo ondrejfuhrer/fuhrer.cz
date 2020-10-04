@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/ondrejfuhrer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.fuhrer.cz
+  * I am ondrejfuhrer (https://keybase.io/ondrejfuhrer) on keybase.
+  * I have a public key with fingerprint FA4C DC2C 22E5 99B5 1599  DB18 9806 3C60 B659 C152
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e232bf5bce8917a13668e00f163faa42e07b781d835d611c5d427a190f1cf96b0a",
+      "fingerprint": "fa4cdc2c22e599b51599db1898063c60b659c152",
+      "host": "keybase.io",
+      "key_id": "98063c60b659c152",
+      "kid": "0101e0690ea828f90e8fd3b3ac0e141e7e4f5212bd5547da90125057e26144aa68700a",
+      "uid": "4bd8243e3ca46d7721b2cd23a4075d19",
+      "username": "ondrejfuhrer"
+    },
+    "merkle_root": {
+      "ctime": 1565277678,
+      "hash_meta": "63467d4272ae1b53341a83c1b1911c27e72a2e69de4582e8afb93dfad5bb8afc",
+      "seqno": 5971921
+    },
+    "revoke": {
+      "sig_ids": [
+        "51021e94f0ac7e9d615216f8a84fbd71d8043554e752a69a5c2e7c2446c8d28d0f"
+      ]
+    },
+    "service": {
+      "hostname": "www.fuhrer.cz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1565277709,
+  "expire_in": 157680000,
+  "prev": "bb93acf96b1a5725a811ae4014e06c621fa68b4eac04eff55abe0e05fc9ee4b3",
+  "seqno": 54,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMQHAnicbZN7bBRFHMdboVWK1T4sISgBNw2hEcrM7Mw+TtJIGzA8rlhpNIj0mN2d
+ba/t3Zbd6wNbkGCbUkhpKM8WUZq0PJQUq6EUq0UuREUQbQ6EKM0plFekKErUUh7O
+nZBo4v6xk5n5/n7znc/vN8cSR8UkxG6Pn7mse/HRl2NPBKvLY5YuyEqsFjTLWCG4
+qoUSFh1YqcGcgKfEawguAUAEGBKRZhJNZ4oKZQpFSVIYACaURJNSjBiQNVmBhiIS
+Q4JQJwZGXKZyhW6qkgaoME0wvf5CZpfZXn+ApzUp1g0d6QgxoqoagfxvaFBRFSCJ
+ugQ0iag6JIgHFllOJIKb06jDMr0WX+MTT9Te/+gf+gaQAUkFjCpIMfmomIaoiVQH
+DGLIZIZNgiDSDEKwbFCVX5QAIjMkQYwplRQZRH2XR9NhzVAQFpmoUywZsoyghnQD
+iRQDmRhQjQgdZvupj3G15TdsVmyWF9nMFlZOE3zMLillHtuyAhHAesAbkUEiESTL
+kqzwS1KnyONjAcqjJRFLcgQhogxqRBQxpIqoQw2qHC6SGd9ATFINhomCmEJNTRUN
+kxpE0/hE514cttxvCS6iylBFkDuwWYVVwiKHO95Cjs4RXEsEAgGCTMUmoLrMVF47
+TkQyFapgUzNkXlCARY6HyQRRSaVER0zWEcaSrhhIMYApLF0ZOcyu8OrR5JFaPWBQ
+WVmZ+Q+BTP0NbqnMtgKWbpXyraJAoMxxRcAEVpRFtUzzPMji0bx+g7cKj6hgtuO1
+/BwUV/6XmQzUaQKrKvPazOONKIgsKYB/kXNYBU+pcSY02n2QEhkRqkBIGQYQ867Q
+JQRNXmINM94PmJkmIVRjgAFi6ipjWBP/BRFzn7SQ5+To/DRQbjNhZfDo66NjYhNi
+4uMeibyhmIQxSQ9f1s2LT95L77twPlQQl3Z59tX7+4pW+S48s+CP6TtiL5TXzvWT
+9cfWquNuf32g+fzg5MOFP4K8WTM9SePzqk49n9ulp+x6amCo/uw5ofrQ24+PzFq7
+pDFx7umM3mCvQ6d+OVIX7ikeXv/z1uNe9XqOu//SQP2EDwoHrzVN+fWVUzUDTu7V
+70DAXT79+6/mBO/l3El/9MC6e6kffwjC4Zvv3HazTxa2LcouJttq0jJ3NKZlBbve
+DXSkx1WGUjNmnGvqmXFl16Gt7qlL678dnp+V11DyRWbLwLCYsupu+Nq+xm0XD16s
+StzftXOo/+Sp3d8su5rxvu/S7eafnOLVyX99fixkicGmEx1qe17S8LPSa5vGurZ2
+zM9Ny98Q+uFg8978eckJ7nxdT8ofSNv455iiwd74/vr0xO2fDfVUN9UVdrW6q5bE
+9VaCoezdNXu6J5wY31dw53Dd5c518Qtb90558bEzI0+/Oau35e7ij2bK430vJZzt
+y7mV1TnSHQqtmBsohWNGbcC1nWF65MakAtdz85QNOdC9pjbDv+jMW/u9C+32lhdm
+TDy0vCe37L3Re68/0d1mvVrna51Y0HpyavfYNn/L0OGU2PZ9bfM3Jvt7V09OWTAc
+u3FLrdWQvOfg6TX9W+obN6d+mtqTOyl8pOP4uN8bxU03fjlSE8qoPj/Y3J+UndoQ
+nnO0ofPKcM7sA/fFup3Zwd9uUTb2b5VpCFU=
+=p+yc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ondrejfuhrer
+
+==================================================================
