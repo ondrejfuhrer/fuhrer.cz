@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /
+
+Sitemap: https://www.fuhrer.cz/sitemap.xml
