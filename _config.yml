@@ -14,7 +14,7 @@ description: >-
 url: 'https://www.fuhrer.cz'
 author: Ondřej Führer
 avatar: /assets/img/favicons/avatar.jpeg
-include: [".well-known"]
+include: [".well-known", "assets/img/posts"]
 github:
   username: ondrejfuhrer
 twitter:
